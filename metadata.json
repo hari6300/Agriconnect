@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect",
+  "description": "A modern responsive full-stack Agriculture Portal that empowers farmers with crop tracking, weather advisory alerts, a direct buyer marketplace, agricultural equipment rentals, AI-powered plant disease diagnosis, and access to government schemes.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
